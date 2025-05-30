@@ -1,0 +1,1 @@
+# Java-Script-Basic-Ques---2---Odd-Even
